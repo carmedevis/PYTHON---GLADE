@@ -1,0 +1,5 @@
+* Configurar git:
+   * git clone https://github.com/carmedevis/PYTHON---GLADE.git
+   * git config --global user.name carmedevis
+   * git config --global user.email carmen.devis@institutoserpis.org
+   * git config --global push.default simple
