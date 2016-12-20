@@ -3,11 +3,3 @@
    * git config --global user.name carmedevis
    * git config --global user.email carmen.devis@institutoserpis.org
    * git config --global push.default simple
-
-Guardar cambios desde carpeta local configurada:
-	git status
-	git add .
-	git commit -m "descripción"
-	git push
-
-
